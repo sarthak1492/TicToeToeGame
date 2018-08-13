@@ -8,10 +8,10 @@ So lets make this even more cooler.
 
 # Screenshots
 
-![image1](Screenshot_1534143361.png)
+![image1](app/src/main/res/drawable/Screenshot_1534143361.png)
 
-![image2](Screenshot_1534143376.png)
+![image2](app/src/main/res/drawable/Screenshot_1534143376.png)
 
-![image3](Screenshot_1534143380.png)
+![image3](app/src/main/res/drawable/Screenshot_1534143380.png)
 
-![image4](Screenshot_1534143391.png)
+![image4](app/src/main/res/drawable/Screenshot_1534143391.png)
