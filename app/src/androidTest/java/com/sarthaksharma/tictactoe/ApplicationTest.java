@@ -1,4 +1,4 @@
-package com.robpercival.connect3;
+package com.sarthaksharma.tictactoe;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
